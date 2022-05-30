@@ -24,4 +24,4 @@ jobs:
     steps:
       # Runs a single command using the runners shell
       - name: Notify AWS Proton
-        run: NotifyResourceStateChange
+        run: aws proton notify-resource-deployment-status-change --resource-arn "arn:aws:proton:us-east-2:787514071465:environment/jaisai9" --status SUCCEEDED
