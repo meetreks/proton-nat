@@ -8,4 +8,5 @@ schema:
       description: "Input properties for my environment"
       properties:
         pisicox:
-          type: array
+          type: string
+          default: subnet-077c40e6054c08d50
