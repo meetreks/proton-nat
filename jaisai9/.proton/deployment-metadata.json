@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "a1d28f51-9914-40e0-af92-d3da3244900f",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-2:787514071465:environment/jaisai9",
+    "templateArn" : "arn:aws:proton:us-east-2:787514071465:environment-template/jaisai9",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
